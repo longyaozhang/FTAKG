@@ -30,7 +30,7 @@ The system can dynamically adjust training strategies according to user expectat
 
 The KGAFT workflow consists of three core agents:
 
-### 1. Data Selection Agent (`s2l-agent/`)
+### 1. Data Selection Agent (`S2l/`)
 Selects high-value training samples from large-scale domain datasets using small-model learning trajectory summarization.
 
 ### 2. Fine-Tuning Customization Agent (`Requirement_analysis_agent/`)
@@ -45,9 +45,9 @@ Evaluates intermediate fine-tuned models and determines whether iterative tuning
 
 ```text
 KGAFT/
-├── dataset/                        # Experimental datasets
+├── Dataset/                        # Experimental datasets
 ├── Evaluation/                     # Model evaluation agent
 ├── Requirement_analysis_agent/     # Fine-tuning customization agent
-├── s2l-agent/                      # Data selection agent
+├── S2l/                      # Data selection agent
 ├── workflow.py                     # End-to-end workflow orchestration
 └── README.md
