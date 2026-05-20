@@ -1,0 +1,1952 @@
+[
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: We assume a spaceship is traveling towards a certain planet at a speed of 0.5c (where c is the speed of light), while simultaneously emitting fixed light signals toward the planet every two minutes. What would be the observed frequency of these light signals for an observer on the planet?\nOptions:\nA. In 2 minutes\nB. More than 2 minutes\nC. Less than 2 minutes\nD. Depends on the frequency of the light signal.\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following constellation areas contains the most Messier objects?\nOptions:\nA. Hercules\nB. Orion\nC. Puppis\nD. Ophiuchus\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which constellation has the longest length of the ecliptic?\nOptions:\nA. Pisces\nB. Aquila\nC. Cancer\nD. Scorpio\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: How were the lunar seas formed?\nOptions:\nA. The massive collision that created the Moon left behind smooth areas we call maria, or seas.\nB. Volatiles emanating from within the Moon heat and erode the surfaces of maria.\nC. Early bombardment produced heat that melted the lunar surface in the maria regions.\nD. The massive impact fractured the Moon's lithosphere, filling the impact basin with lava.\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The Democratic Republic of Timor-Leste, which declared independence on May 20, 2002, is located in:\nOptions:\nA. Ryukyu Islands\nB. Malay Archipelago\nC. West Indies\nD. Aleutian Islands\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: In which constellation was Neptune first discovered?\nOptions:\nA. Aquarius\nB. Virgo\nC. Capricorn\nD. Leo\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: If the Earth had no Moon, what would happen to the tides:\nOptions:\nA. They would not occur\nB. They would occur more frequently and more violently\nC. If the Earth had no Moon, what would happen to the tides: (a) They would not occur\nD. They would occur at the same frequency, but less strongly.\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Astronomers have discovered phosphorus in the liquid oceans of ( ), making it a celestial body that possesses all six basic elements of life: carbon, hydrogen, oxygen, nitrogen, sulfur, and phosphorus.\nOptions:\nA. Mars\nB. Venus\nC. Enceladus\nD. Ganymede\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the position of Earth as seen from Venus during the greatest western elongation?\nOptions:\nA. Stay\nB. Upper conjunction\nC. Quadrature\nD. Opposition\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Why are the lengths of day and night not equal every day on Earth?\nOptions:\nA. Because the sun is not at the center of Earth's orbit.\nB. Because the Earth's axis is tilted.\nC. Because the Earth's orbit is elliptical.\nD. Because the Earth is round.\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The mysterious passage connecting black holes and white holes is known as ( ).\nOptions:\nA. Dark matter\nB. Singularity\nC. Wormhole\nD. Hyperspace\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What phenomenon would you observe if you were standing on the Moon's surface in the penumbral region during a penumbral lunar eclipse?\nOptions:\nA. Solar Eclipse\nB. No solar eclipse occurred.\nC. Partial solar eclipse\nD. Sun not visible\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the latitude of the Arctic Circle?\nOptions:\nA. 66°34′\nB. 73°26′\nC. 63°26′\nD. 76°34′\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The upper limit of the Chandrasekhar limit is ( ) times the mass of the Sun.\nOptions:\nA. 3\nB. 2.3\nC. 1.44\nD. 1.54\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following statements about the Geminid meteor shower is incorrect?\nOptions:\nA. Maximal appears in mid-December.\nB. High and stable flow rate\nC. Meteoroid velocity is relatively fast.\nD. Moonlight affects observations.\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The phenomenon of precession was first discovered by the ancient Greek Hipparchus, and it was also independently discovered in ancient China. Who was this person?\nOptions:\nA. Yu Xi\nB. Zhang Zixin\nC. Zhang Heng\nD. Qin Jiu Shao\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What does the term \"ecliptic\" describe in astronomy?\nOptions:\nA. The path of the sun across the sky during the year.\nB. The tilt of the Earth's axis throughout the year.\nC. Star motion caused by the Earth's rotation.\nD. Through the central line of the axis of rotation.\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: As early as 130 AD, the ancient Greek astronomer Ptolemy observed a疏散星团 with the naked eye, hence it is also known as the Ptolemy Cluster.\nOptions:\nA. M7\nB. M11\nC. M35\nD. M44\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: In the standard model's four major astronomical observational evidence, what embodies the contradiction between symmetry and its breaking?\nOptions:\nA. The universe is indeed expanding.\nB. In the universe, hydrogen accounts for 73% of elemental abundance, while helium makes up 26%.\nC. 3K Cosmic Background Radiation\nD. The total number of photons to particles is 1 billion to 1.\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the period of Halley's Comet?\nOptions:\nA. 75\nB. 76\nC. 77\nD. 78\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: When was the global project \"Astronomy 100 Hours\" for the International Year of Astronomy 2009 held?\nOptions:\nA. Early April\nB. Mid-July\nC. Late August\nD. Late October\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following statements about calendars is incorrect?\nOptions:\nA. The months in the current Gregorian calendar are merely units of time length and are not related to lunar phases.\nB. The months in the Chinese lunar calendar are determined by the synodic month, with a long month having 31 days and a short month having 30 days.\nC. According to the current Gregorian calendar leap year setting method, 1900 is not a leap year.\nD. The solar terms are a unique creation of the Chinese calendar, with each 15-degree movement of the sun along the ecliptic corresponding to one of the 24 solar terms.\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: If the Earth took only 9 months, instead of 12 months, to orbit the Sun, how would a solar day compare to a sidereal day:\nOptions:\nA. Longer\nB. Shorter\nC. Unchanged\nD. None of the above\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: In the traditional Chinese calendar, the synodic month cycle is ( ).\nOptions:\nA. 28 days\nB. 29 days and a bit\nC. A little over 30 days\nD. Just over 27 days\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Where are Haumea, Makemake, and Pluto located?\nOptions:\nA. Asteroid Belt\nB. Oort Cloud\nC. Andromeda Galaxy\nD. Kuiper Belt\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the third star that forms the \"Summer Triangle\" along with Vega and Altair?\nOptions:\nA. Procyon in Canis Minor\nB. Regulus\nC. Cygnus's Deneb\nD. Mulley\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following astronomical events will definitely not occur in 2012?\nOptions:\nA. Solar Eclipse\nB. Solar Eclipse\nC. Lunar Eclipse\nD. Lunar occultation of Venus\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What happens when a person crosses the International Date Line? The time on the clock remains unchanged, but the date should be incremented by one day.\nOptions:\nA. From west to east\nB. From east to west\nC. From south to north.\nD. From north to south\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which comet collided with Jupiter in 1994?\nOptions:\nA. Halley's Comet\nB. Hale-Bopp Comet\nC. Meteor Shower\nD. Comet Shoemaker-Levy 9\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Using the method of standard candles. In principle, we can measure the distance of a bonfire if we know:\nOptions:\nA. The amount of wood used\nB. The temperature of the flame\nC. The duration of the flame burning\nD. The type of wood used for burning.\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: \"With the first rumbling of thunder, all things revive.\" Which solar term is described here?\nOptions:\nA. Start of Spring\nB. Vernal Equinox\nC. Awakening of Insects\nD. Clear and Bright\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Where is the asteroid belt located between the orbits of which planets?\nOptions:\nA. Mars and Jupiter\nB. Uranus and Neptune\nC. Venus and Mercury\nD. Earth and Moon\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the first true space laboratory in China?\nOptions:\nA. Tianzhou-1\nB. Tiangong-2\nC. Tiangong-1\nD. Shenzhou 11\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: It is generally believed that the telescope was invented by a Dutch merchant, and the first person to use a telescope for astronomical observation was\nOptions:\nA. Copernicus\nB. Newton\nC. Kepler\nD. Galileo\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Around December 15, 2024, Mars changes from direct motion to retrograde motion. At this time, from the perspective of Mars, where is Earth located?\nOptions:\nA. 上合\nB. Greatest Elongation\nC. Opposition\nD. Oriental Light\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The size of the Milky Way is approximately () light-years.\nOptions:\nA. Less than 10\nB. 1000\nC. 100,000\nD. Greater than 10 million\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Why is the sky blue?\nOptions:\nA. The sun primarily emits blue light.\nB. The atmosphere mainly absorbs blue light.\nC. Molecular scattering is more effective for red light than for blue light.\nD. Molecular scattering is more effective for blue light than for red light.\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following is incorrect?\nOptions:\nA. Earth and Venus are in a 1:1 orbital resonance (for every 1 Earth orbit, there is 1 Venus orbit).\nB. Neptune and Pluto are in a 3:2 orbital resonance (for every 3 Neptune orbits, there are 2 Pluto orbits).\nC. The Kirkwood gaps in the asteroid belt are caused by resonance with Jupiter.\nD. Due to orbital resonance, Neptune and Pluto will not collide.\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The European Space Agency's Gaia satellite measures the parallax of a 15th magnitude star with an accuracy of 20 microarcseconds. What is its theoretical maximum detection distance for a 15th magnitude star?\nOptions:\nA. 2000 light years\nB. 10000 second difference\nC. 50,000-second arc\nD. 2 million light years\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following information about planets cannot be obtained through occultation?\nOptions:\nA. Mass\nB. Size\nC. Period\nD. Distance from the Stars\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the greatest impact of dark matter on astronomical systems?\nOptions:\nA. Temperature\nB. Gravitation\nC. Elemental Composition\nD. Speed of Motion\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following facts about the Moon is most likely to be a coincidence?\nOptions:\nA. The Moon and the Sun appear to be roughly the same size when observed from Earth.\nB. The moon always presents one face toward the earth.\nC. There are more craters on the far side of the Moon than on the near side.\nD. The angle between the plane of the Moon's orbit and the plane of Earth's orbit is very small.\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What conditions are required for terrestrial planets to have strong magnetic fields?\nOptions:\nA. Only rapid rotation\nB. Only rocky mantle\nC. Only a molten metal core\nD. Both a molten metal core and a rather rapid spin\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which celestial body was used by astronomers when they first measured the distance from the solar system to the galactic center?\nOptions:\nA. Stars near the Galactic Center\nB. Supernova\nC. Cepheid variable\nD. Globular Cluster\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the four terrestrial planets has the largest apparent diameter when observed from the position of Jupiter's orbit during a transit?\nOptions:\nA. Mercury\nB. Venus\nC. Earth\nD. Mars\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Among the 110 Messier objects, more than half are ( ).\nOptions:\nA. Nebula\nB. Cluster\nC. Galaxy\nD. Supernova Remnants\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following wavelengths has the highest atmospheric transmittance when observed from the Earth's surface?\nOptions:\nA. Far-Infrared\nB. Radio\nC. Visible light\nD. Near-infrared\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The portion of luminous matter currently recognized by humans accounts for nearly () of the total matter in the universe.\nOptions:\nA. 0.05\nB. 0.14\nC. 0.25\nD. 0.7\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which constellation is not adjacent to the Hercules region?\nOptions:\nA. Lyra\nB. Draco\nC. Serpens\nD. Cygnus\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The solar constant is ______ J/(cm•min).\nOptions:\nA. 8.16\nB. 8.12\nC. 8.14\nD. 8.18\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: This spacecraft is the farthest human-made object from Earth. Launched in 1977, it and its \"twin\" continue to send data back to Earth. What is it called?\nOptions:\nA. Gemini spacecraft\nB. Vanguard 1\nC. Voyager 1\nD. Voyager 2\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What was the first interstellar comet observed?\nOptions:\nA. Comet Borisov\nB. Comet Hale-Bopp\nC. Temple-Tuttle Comet\nD. Halley's Comet\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is NGC1499 also known as?\nOptions:\nA. California Nebula\nB. Spiral Nebula\nC. Rosette Nebula\nD. North America Nebula\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: In the astronomical term \"Canglong Playing with a Pearl,\" what is the pearl referred to?\nOptions:\nA. The Sun\nB. Moon\nC. Heart of the Dragon among the seven mansions\nD. Mulley of the seven mansions in the Dragon\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following statements about the Curiosity Mars rover is incorrect?\nOptions:\nA. Named by a 12-year-old Chinese girl.\nB. Collecting Martian rock samples to explore the potential existence of life.\nC. Landed on the surface of Mars on November 26, 2011.\nD. Using multi-mission radioisotope thermoelectric generators\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: How can we create detailed maps of the surface features of Venus?\nOptions:\nA. Studying Venus from Earth using powerful optical telescopes.\nB. Landing spacecraft on the ground for close-up study\nC. Studying Venus by sending spacecraft with powerful optical telescopes to orbit around it.\nD. By using the radar of spacecraft sent to金星's orbit\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which planet has an axial tilt close to 90 degrees, known for \"rotating on its side\"?\nOptions:\nA. Venus\nB. Uranus\nC. Mercury\nD. Saturn\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Many next-generation space telescopes are equipped with devices for acquiring optical or near-infrared seamless spectra. The Chinese Space Station Telescope (CSST) in the design phase will have a seamless spectral resolution of about R~200, which means the telescope can distinguish between two spectral line features located at wavelength x and wavelength (1+1/200)x. Considering the Doppler effect, among the following scientific objectives, the one that would be more difficult to achieve with this device is ( ).\nOptions:\nA. Determining the Virial Mass of Galaxy Clusters\nB. Measurement of galaxy rotation curves\nC. Determining the Redshift of Distant Celestial Bodies\nD. Interpreting the Broad Emission Lines of Quasars\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: When Earthlings on Earth and \"Martians\" on Mars observe a star at the same time, compared to the observations of Earthlings, which of the following descriptions is correct?\nOptions:\nA. The \"annual parallax\" observed on Mars is small, and the \"light deflection\" is large.\nB. The \"annual parallax\" observed on Mars is small, and the \"light travel difference\" is also small.\nC. The \"annual parallax\" observed on Mars is large, while the \"aberration of light\" is small.\nD. The \"annual parallax\" observed on Mars is large, and the \"aberration of light\" is significant.\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following phases of the moon is a full moon? ( )\nOptions:\nA. New Moon\nB. First Quarter Moon\nC. Full Moon\nD. Waning crescent\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following statements about atoms is incorrect?\nOptions:\nA. The nucleus contains most of the atom's mass but almost none of its volume.\nB. Neutral atoms always have the same number of electrons and protons.\nC. Neutral atoms always have the same number of neutrons as protons.\nD. Electrons can only orbit at specific energy levels.\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Who is the Chinese person who has discovered the most SOHO comets so far?\nOptions:\nA. Ge Yongliang and Wang Qi\nB. Zhang Daqing and Meng Huan\nC. Zhou Xingming and Chen Donghua\nD. Li Weidong and Zhu Jin\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: A star much cooler than the Sun appears:\nOptions:\nA. red\nB. blue\nC. smaller\nD. larger\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Why is the sky blue?\nOptions:\nA. Because the molecules that make up the Earth's atmosphere are blue.\nB. Because the sky reflects the color of the Earth's oceans.\nC. Because the atmosphere scatters shorter wavelengths preferentially.\nD. Because the Earth's atmosphere absorbs all other colors first.\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which planet is known as the \"Red Planet\"?\nOptions:\nA. Venus\nB. Mercury\nC. Mars\nD. Earth\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of Jupiter's four Galilean moons, Io, Europa, Ganymede, and Callisto, is closest to the planet?\nOptions:\nA. Callisto\nB. Europa\nC. Ganymede\nD. Europa\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the TESS Julian Date of the upcoming 23rd transit for TOI 402.01, which has an orbital period of 4.756 ± 0.000023 days, with its last observed transit occurring on TESS Julian Date 2139.1 ± 0.0027008 days (BJD - 2457000)?\nOptions:\nA. 2243.732 ± 0.0027238 TESS JD\nB. 2248.488 ± 0.000529 TESS JD\nC. 2248.488 ± 0.0027238 TESS JD\nD. 2248.488 ± 0.0032298 TESS JD\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the expression for the total energy released during the impact when a comet of mass m collides with Earth (mass M, radius R) at the minimum impact velocity?\nOptions:\nA. m*v\nB. 0.5*m/(R^3)\nC. 0.5*m*(2GM/R)\nD. 0.6*G(M^2)/R\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following statements is incorrect?\nOptions:\nA. The Long March 5 series of launch vehicles, developed by the China Academy of Launch Vehicle Technology, are non-toxic, pollution-free, high-performance, large-thrust heavy-lift liquid rockets.\nB. One of the reasons for launching the \"Fat 5\" at noon is to consider the relative relationship between the satellite's solar sailboard and sunlight, which is conducive to satellite charging.\nC. On December 27, 2019, the Long March 5 Y3 rocket, nicknamed \"Fat 5\", was launched. After a successful separation of the satellite and the rocket, the Shijian-20 satellite was smoothly sent into its preset orbit.\nD. Wenchang, which launched the \"Fat Five\", is China's lowest latitude and only coastal launch site. It is also China's first low-latitude launch site.\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The physicist who first discovered the spectrum is ( ).\nOptions:\nA. Giordano Bruno\nB. Galileo\nC. Newton\nD. Einstein\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which constellation is M51 in?\nOptions:\nA. Great Bear\nB. Ursa Minor\nC. Lyra\nD. Canis Major\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Given the density of the Moon, the density of Mercury indicates that the planet:\nOptions:\nA. has an internal structure similar to that of the Moon\nB. has a dense metallic core\nC. has a stronger magnetic field than the Moon\nD. is younger than the Moon.\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which telescope is primarily used for studying molecular gas in galaxies?\nOptions:\nA. XMM-Newton\nB. Atacama Large Millimeter/submillimeter Array\nC. Hubble Space Telescope\nD. eROSITA\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which solar term (medium solar term) is most likely to occur in the first lunar month?\nOptions:\nA. Minor Cold\nB. Great Cold\nC. Start of Spring\nD. Rain\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the current position of the North Celestial Pole in the equatorial coordinate system?\nOptions:\nA. Right ascension 0h 00m, declination 66°34′\nB. Right Ascension 6h 00m, Declination 66°34′\nC. Right Ascension 18h 00m, Declination 66°34′\nD. Right Ascension 0h 00m, Declination 53°34′\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which city in the Middle East is a holy site for three religions?\nOptions:\nA. Istanbul\nB. Damascus\nC. Nazareth\nD. Jerusalem\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Where on Earth can you see the entire sky of stars?\nOptions:\nA. North Pole\nB. Equator\nC. South Pole\nD. Tropic of Capricorn\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the capital of the country whose main port, at the tip of West Africa, is Dakar?\nOptions:\nA. Senegal\nB. Ivory Coast (Cote d'Ivoire)\nC. Sierra Leone\nD. Mauritania\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following does not fit the characteristics of Sedna?\nOptions:\nA. Trans-Neptunian object\nB. Trans-Neptunian object\nC. One of the reddest objects in the solar system.\nD. Independent celestial body\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What type of star, known as the \"standard candle of the universe\", can be used to determine stellar luminosity and even distance through its period of luminosity variations?\nOptions:\nA. Pulsar\nB. Red Giant\nC. Cepheid variable stars\nD. Eclipsing Binary Star\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Determining the mass of a star can be achieved by:\nOptions:\nA. Measuring its luminosity\nB. Determining its composition\nC. Measuring its Doppler shift\nD. Studying its orbit around a binary companion star.\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which planet once had rivers and lakes on its surface, similar to Earth?\nOptions:\nA. Saturn\nB. Neptune\nC. Mars\nD. Pluto\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: A red giant has a temperature of 2500K and a radius that is 100 times that of the Sun, located at a distance of 10 parsecs. It is known that the energy emitted by this red giant in the visible light spectrum (400nm≤λ≤700nm) accounts for 3.3% of its total luminosity L. If a 100W light bulb emits 5% of its total radiation in the visible light spectrum, at what distance would the light bulb appear as bright to the naked eye as the red giant?\nOptions:\nA. 18km\nB. 10km\nC. 1.8km\nD. 7 km\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following is not possible to observe from Earth?\nOptions:\nA. Mercury is the closest planet to Earth.\nB. Venus reaches its greatest elongation three times a year.\nC. Mars is brighter than Jupiter.\nD. There are usually only 1 to 2 solar eclipses per year.\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following is the most famous theory by Stephen Hawking, the theoretical physicist who passed away in 2018?\nOptions:\nA. Black Hole Radiation Theory\nB. The Big Bang Theory\nC. Proposed Higgs Particle\nD. Quantum Entanglement Theory\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: In which solar term is the declination of the Sun the greatest? ( ).\nOptions:\nA. Vernal Equinox\nB. Summer Solstice\nC. Autumn Equinox\nD. Winter Solstice\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What can you use to observe a comet with a magnitude of 8?\nOptions:\nA. Can only be seen with the naked eye.\nB. Only visible through a telescope\nC. With the naked eye and binoculars or telescopes\nD. Using binoculars or telescopes\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: In the mid-latitudes of the Southern Hemisphere, it is currently 7h sidereal time. It is known that a certain star will culminate in another 2h30m. What is the right ascension of this star?\nOptions:\nA. 6 hours 30 minutes\nB. 9 hours 30 minutes\nC. 0h30m\nD. 3 hours 30 minutes\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: If the Moon sets at noon, it must be in which phase?\nOptions:\nA. Waning Crescent\nB. Crescent Moon\nC. Waxing Crescent\nD. Full Moon\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: At the geographic North Pole of the Earth, the needle of a magnetic compass would (approximately) point to:\nOptions:\nA. towards Alaska\nB. towards Kansas City\nC. towards Paris\nD. downwards.\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: So far, approximately how many asteroids with permanent numbers have been discovered internationally?\nOptions:\nA. Approaching 50,000\nB. 100,000\nC. 20万\nD. Over 300,000\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which planet in the solar system is a true \"time flies\" planet, where 1 day equals 2 years?\nOptions:\nA. Mercury\nB. Venus\nC. Mars\nD. Earth\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: After its birth, the universe was immediately:\nOptions:\nA. dominated by photons\nB. primarily composed of protons\nC. had equal amounts of matter and antimatter\nD. formed stars and galaxies.\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which physicist was the first to prove Einstein's theory of relativity through the observation of a solar eclipse?\nOptions:\nA. Penrose\nB. Eddington\nC. Max Planck\nD. Stephen Hawking\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: When does a full moon rise above the horizon?\nOptions:\nA. Noon\nB. Evening Time\nC. Midnight Hour\nD. At dawn\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which zodiac constellation, associated with optimism in astrology, has a star cluster known as the \"Teapot\"?\nOptions:\nA. Taurus\nB. Leo\nC. Cancer\nD. Sagittarius\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the term for a bright meteor that explodes in the sky?\nOptions:\nA. Jet meteor\nB. Fireball\nC. Meteoroid\nD. Wave of Light\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following problems in the traditional Big Bang theory can be explained by inflation theory?\nOptions:\nA. In the traditional Big Bang theory, our universe could hardly be flat or almost flat, which is inconsistent with observational results.\nB. In the traditional Big Bang theory, the cosmic microwave background could not have reached thermal equilibrium during the recombination era, even though the observed temperatures are uniform.\nC. The traditional Big Bang theory predicts a large number of magnetic monopoles, but we have yet to discover them.\nD. All of the above.\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Why does the plasma (ion) tail of a comet always point away from the Sun?\nOptions:\nA. Radiation pressure from sunlight pushes the ions away.\nB. The conservation of angular momentum in the tail ensures that it always points away from the Sun.\nC. These ions move along Kepler orbits that are far away from the sun.\nD. The solar wind directly \"blows\" ions away from the Sun in an electromagnetic manner.\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is a planetary ring?\nOptions:\nA. All known Jovian planets exist.\nB. Composed of a large number of independent particles, which orbit their planets in accordance with Kepler's third law.\nC. Closer to their planet than any of its large moons.\nD. All of the above statements are correct.\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Space telescopes specifically designed for detecting exoplanets are ( ).\nOptions:\nA. Herschel Infrared Space Telescope\nB. Hubble Space Telescope\nC. Kepler Space Telescope\nD. James Webb Space Telescope\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The distance of Deneb (Cygnus \\alpha) is approximately 802 pc, how long does it take for its light to reach Earth?\nOptions:\nA. 800 years\nB. In the year 2600\nC. 5600 years\nD. 10,000 years\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following is not evidence for the Big Bang cosmology theory?\nOptions:\nA. Hubble's Law\nB. Inflationary Theory\nC. The ratio of light elements\nD. Cosmic Microwave Background Radiation\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following bands has the highest atmospheric transmittance when observed from the Earth's surface?\nOptions:\nA. Visible Light\nB. Near-infrared\nC. Radio\nD. Far Infrared\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which spacecraft achieved the first successful flyby exploration of Mars by humanity?\nOptions:\nA. Mariner 1\nB. Mariner 4\nC. Mariner 5\nD. Mariner 3\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Characteristics of dark matter do not include ()\nOptions:\nA. The total volume is more than 10 times that of visible matter.\nB. Does not emit any radiation, but possesses gravity.\nC. Massive, long-lived, weakly interacting\nD. The main body should be matter other than known heavy particles.\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is it about asteroids that makes them stand out in the sky surveys that look for them?\nOptions:\nA. Asteroids emit pulsed radiation.\nB. Asteroids themselves emit a significant amount of radiation.\nC. They reflect enough sunlight to make them brighter than most background stars.\nD. Asteroids have significant motion relative to background stars.\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Compared to cooler stars, the absorption lines of hotter stars are:\nOptions:\nA. Thin and distinct\nB. Broad and blurry\nC. The same as those of cooler stars.\nD. None of the above.\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Using an equatorial telescope, initiate automatic tracking to observe a star near the eastern horizon. After some time, it is noticed that the star image drifts towards the north within the telescope's field of view. If the telescope is then pointed at a star near the southern horizon, there is almost no shift in the star image along the north-south direction after some time. This indicates that the telescope's polar axis is ( ) off.\nOptions:\nA. High\nB. Low\nC. Left\nD. Right\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is a pulsar, which emits radio pulses, actually the remnant of a late-stage stellar explosion?\nOptions:\nA. Neutron Star\nB. White dwarf\nC. Red Giant\nD. Black Hole\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Within a distance of 30 Mpc from the Sun, there are approximately:\nOptions:\nA. 3 galaxies\nB. 30 galaxies\nC. thousands of galaxies\nD. millions of galaxies\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following parameters is used to measure the effect of atmospheric turbulence on celestial images?\nOptions:\nA. Limiting magnitude\nB. Cloud Coverage Rate\nC. Transparency\nD. Seeing\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: In the Chinese classic mythological story \"Journey to the West,\" Sun Wukong wields a Ruyi Jingu Bang weighing 13,500 pounds. Normally, Sun Wukong transforms the Jingu Bang into the size of a \"needle for embroidery\" and keeps it in his ear. The celestial body with a density closest to this \"embroidery needle\" is\nOptions:\nA. Betelgeuse\nB. Sirius B\nC. Vega\nD. Crab Nebula Central Star\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: How much is the Earth's axis tilted relative to the plane of its orbit around the Sun?\nOptions:\nA. 20.3 degrees\nB. 21.4 degrees\nC. 22.7 degrees\nD. 23.5 degrees\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Why do we look for water ice in polar craters on Mercury?\nOptions:\nA. In fact, water ice is scattered all over Mercury, not just at the poles.\nB. The North Pole is the only place fortunate enough to have been struck by a comet.\nC. Radar on Earth can only see the poles of Mercury.\nD. These craters contain the only permanently shadowed regions on Mercury.\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The surface of Venus is permanently obscured by clouds. As a result, its surface is primarily detected by which of the following?\nOptions:\nA. Automatic landers\nB. Orbital satellites using radar\nC. Spectroscopy\nD. Radar signals from Earth\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following projects is not part of China's major science and technology infrastructure construction during the \"13th Five-Year\" plan?\nOptions:\nA. 500-meter Aperture Spherical Telescope\nB. 12-meter class optical/infrared telescope\nC. Space Environment Ground-based Monitoring Network\nD. High-precision ground-based timing system\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following galaxies is the nearest to the Milky Way?\nOptions:\nA. Andromeda Galaxy\nB. Large Magellanic Cloud\nC. Small Magellanic Cloud\nD. Canis Major Irregular Galaxy\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following meteor showers had the least moonlight interference during its peak observation period in 2019?\nOptions:\nA. Geminids Meteor Shower\nB. Eta Aquarids\nC. Orionid Meteor Shower\nD. April Lyrids Meteor Shower\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: (The neutrino detected in 2017 came from a galaxy known as TXS 0506+056. One of the two jets produced by the supermassive black hole at the center of the galaxy was precisely aligned with Earth, generating radiation and high-energy particles, including the neutrino and charged cosmic rays that were detected this time.)\nOptions:\nA. Mediterranean Neutrino Astronomy Observatory\nB. South Pole IceCube Neutrino Observatory\nC. Chandra X-ray Observatory\nD. Compton Gamma-Ray Observatory\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The solar wind is a stream of charged particles released from the surface of the Sun, specifically from the ( ).\nOptions:\nA. Sunspots\nB. Solar Prominences\nC. Solar Core Fusion\nD. Corona\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: When is the best time to observe Mercury in March?\nOptions:\nA. Dawn\nB. 3 hours after sunset\nC. Midnight\nD. Dusk\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: On the day of the vernal equinox, the local sidereal time when the Sun is at its culmination is ( ).\nOptions:\nA. 0 hour\nB. 6 o'clock\nC. 12 o'clock\nD. 18:00\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Messier object M101 is located in the ( ) sky area.\nOptions:\nA. Andromeda\nB. Canis Major\nC. Gemini\nD. Great Bear\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following stars does not belong to the \"Great Winter Hexagon\"?\nOptions:\nA. Capella\nB. Beta Orionis\nC. South River III\nD. Aldebaran\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: How many meteor showers can be related to a single comet?\nOptions:\nA. 1\nB. 2\nC. 4\nD. Unlimited\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following statements about Jupiter's four Galilean moons is incorrect?\nOptions:\nA. Callisto is the only one of the Galilean satellites that is not in synchronous rotation.\nB. The volcanic activity on the surface of Jupiter's moon Io is extremely intense.\nC. There is a high likelihood of a liquid ocean beneath the icy crust of Europa.\nD. Ganymede is the largest moon in the solar system.\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What factors determine the state of water?\nOptions:\nA. Temperature\nB. Atmospheric Pressure\nC. Humidity\nD. All of the above options are correct.\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the name of the faint cluster of six stars that look like a mini Big Dipper you discovered?\nOptions:\nA. Pleiades Cluster\nB. Hyades Star Cluster\nC. Andromeda Galaxy\nD. The Solar System\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the most common spectral type of stars in the Milky Way?\nOptions:\nA. G-type\nB. F-type\nC. K-type\nD. M-type\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following statements about the 2012 International Olympiads on Astronomy is correct?\nOptions:\nA. The most gold medals won by the Chinese team in history.\nB. All venues are located in the Northern Hemisphere.\nC. For the first time, all 18 Chinese team participants won medals.\nD. The hosting countries are all hosting an international or regional astronomy Olympiad for the first time.\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following statements about the Sun is incorrect?\nOptions:\nA. The first coronagraph in China was established at the Gaomeigu Observatory in Lijiang, Yunnan in October 2013.\nB. The well-known five-minute oscillations on the surface of the Sun are primarily due to turbulent convection beneath the photosphere layer.\nC. The element helium was first discovered through the spectral analysis of the sun.\nD. The solar magnetic field reverses its direction approximately every five years, forming the solar cycle within the activity of the solar magnetic field.\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: As stars progress through their lifecycles, they produce heavy elements. In which order do these elements form layers around the star (starting from the outer layer)?\nOptions:\nA. Hydrogen → Helium → Lithium → Nitrogen → Oxygen → Silicon → Iron\nB. H→He→C→O→Ne→Si→Fe\nC. Hydrogen → Helium → Lithium → Oxygen → Neon → Silicon → Iron\nD. Hydrogen → Helium → Carbon → Nitrogen → Oxygen → Silicon → Iron\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following statements about the dark side of the moon is incorrect?\nOptions:\nA. It is not visible from Earth.\nB. It has never been illuminated by the sun.\nC. It doesn't look the same as the near side.\nD. The far side of the moon has more craters.\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Messier object M82 is located in the ( ) sky region.\nOptions:\nA. Ursa Major\nB. Orion\nC. Swan Constellation\nD. Pegasus\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the cause of the hexagonal star pattern observed in the center of a calibration image released by NASA in March from the Webb Space Telescope?\nOptions:\nA. Diffraction patterns caused by hexagonal mirrors\nB. Diffraction structure caused by the light shield\nC. Interference fringes caused by the secondary mirror bracket\nD. Diffraction structure caused by the secondary mirror support\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The tail of a comet points in which direction?\nOptions:\nA. Far from the Sun\nB. Towards the Sun\nC. In the direction of motion\nD. Opposite to the direction of motion\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: In China, there is a manned spacecraft called \"Shenzhou\"; a manned space station called \"Tiangong\"; a relay communication satellite called \"Queqiao\"; and a dark matter detector named \"Wukong\". Which of the following is not yet the name of a Chinese space project? ( )\nOptions:\nA. Luo Shen\nB. Chang'e\nC. Xihe\nD. Zhu Rong\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What are the results of Earth's tidal action on the Moon?\nOptions:\nA. The rotation speed of the moon is greater than its orbital speed around the Earth.\nB. The rotation speed of the moon is less than its orbital speed around the Earth.\nC. The rotational speed of the Moon is equal to its orbital speed around the Earth.\nD. None of the above\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: In the classification of binary stars, different types of binary systems can be distinguished based on observational phenomena and physical processes (i.e., whether or not the two component stars fill their Roche lobes). Which of the following types does not belong to the classification based on physical processes?\nOptions:\nA. Contact binary\nB. Eclipsing Binary\nC. Semi-detached binary\nD. Eclipsing binary\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: How large is Pluto?\nOptions:\nA. About the size of Earth\nB. Bigger than Earth\nC. Smaller than the Moon\nD. Unknown\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the aperture of the largest refracting telescope?\nOptions:\nA. 8.0m\nB. 5.4 meters\nC. 1.0m\nD. 2.4m\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the solar term when the sun directly shines on the Tropic of Cancer?\nOptions:\nA. Vernal Equinox\nB. Summer Solstice\nC. Autumn Equinox\nD. Winter Solstice\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following is not a publicly issued magazine primarily targeting astronomy enthusiasts?\nOptions:\nA. Astronomy\nB. Astronomy Now\nC. Sky & Telescope\nD. Amateur astronomer\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Where is the position of the sun in the starry background during spring?\nOptions:\nA. Scorpio\nB. Leo\nC. Pisces\nD. Gemini\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What was the local sidereal time at the 90° East longitude on March 21, 2013, at 6:00 Universal Time?\nOptions:\nA. 0\nB. 6\nC. 12\nD. 18\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Galaxies typically contain supermassive black holes.\nOptions:\nA. 中央\nB. Edge\nC. Anywhere\nD. Halfway to the radius\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: When the thermal velocity of a certain component in the planet's atmosphere exceeds the planet's escape velocity, what will happen?\nOptions:\nA. The atmospheric component will disappear.\nB. This atmospheric component will return to the planet.\nC. The atmospheric component will decompose.\nD. This atmospheric component will quickly escape the planet.\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the origin of lunar craters?\nOptions:\nA. Lunar craters were once volcanoes.\nB. Lunar craters are formed by meteorites.\nC. Lunar craters were once large lakes.\nD. I don't know.\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: If seismometers record P-waves and S-waves everywhere on the Moon, what would you conclude about the Moon?\nOptions:\nA. It has a layered structure similar to Earth.\nB. It does not have a molten core.\nC. It does not have moonquakes.\nD. It has uniform density from the interior to the exterior.\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The highly anticipated comet of 2020, Comet C/2020 F3 (NEOWISE), has an orbital period of approximately 7000 years. What is its semi-major axis closest to in terms of astronomical units (au)?\nOptions:\nA. 3.6\nB. 36\nC. 360\nD. 3600\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: In January 2023, a research team led by the National Astronomical Observatories of the Chinese Academy of Sciences, leveraging the advantage of an extensive super-spectral data sample, combined with data from the European Space Agency (ESA), for the first time discovered direct evidence of changes in the initial mass distribution of stars. In the future, China's upcoming launch of the (blank) could further assist astronomers in verifying the stellar initial mass function.\nOptions:\nA. FAST, LHAASO, CSST\nB. FAST, EP, LHAASO\nC. LAMOST, JUICE, EP\nD. LAMOST, Gaia, CSST\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: According to the existing theories of galaxy evolution, quasars occur during:\nOptions:\nA. the early stages of the evolutionary sequence\nB. close to the Milky Way\nC. when elliptical galaxies merge\nD. the late stages of the evolutionary sequence\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following constellations appears during the height of summer in the Northern Hemisphere?\nOptions:\nA. Orion\nB. Aquila\nC. Scorpio\nD. Three Stars of the River Drum\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: According to Sporer's Law, at the beginning of the activity cycle, sunspot groups generally appear at what latitude?\nOptions:\nA. 30 degrees\nB. 35 degrees\nC. 15 degrees\nD. 8 degrees\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Using two convex lenses, a Kepler-style telescope can be constructed. Inserting a concave lens between the objective and eyepiece can further increase the magnification of the telescope. Observing a distant upright letter \"p\" with this telescope, what shape appears in the eyepiece?\nOptions:\nA. q\nB. p\nC. b\nD. d\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: According to the inverse square law, if the distance to the light bulb is increased by 5 times, how will the apparent brightness of the light bulb change:\nOptions:\nA. Remain unchanged\nB. Dim by 5 times\nC. Dim by 10 times\nD. Dim by 25 times\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Where are sunspots and solar flares located in the Sun's atmosphere?\nOptions:\nA. Photosphere and chromosphere\nB. Chromosphere and photosphere\nC. All located in the chromosphere\nD. All are located in the photosphere.\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: If, during a transit of Venus, the planet could completely cover the Sun, its diameter would need to be at least how many times larger than it is now?\nOptions:\nA. 13\nB. 33\nC. 83\nD. 130\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Among elementary particles, which one cannot emit radiation?\nOptions:\nA. Electrons and Neutrons\nB. Electrons and Atoms\nC. Molecules and Neutrons\nD. Molecules and Atoms\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Where is the world's largest habitat for white cranes located?\nOptions:\nA. Poyang Lake\nB. Dongting Lake\nC. Taihu Lake\nD. Chaohu\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: How long would it take for the moon to fall to Earth if it stopped moving, considering only gravitational forces?\nOptions:\nA. 2.4 hours\nB. 21 hours\nC. 5 days\nD. 20 days\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following constellations is not adjacent to the others?\nOptions:\nA. Virgo and Coma Berenices\nB. Aquarius and Piscis Australis\nC. Perseus and Pegasus\nD. Draco and Hercules\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the brightest star in the night sky?\nOptions:\nA. Feiyun\nB. Vega\nC. Sirius\nD. Altair\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What was the first interstellar object discovered in the Solar System?\nOptions:\nA. Haumea\nB. 'Oumuamua\nC. Bird God Star\nD. Ceres\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Astronomy is one of the six fundamental disciplines of natural science, and its three main sub-disciplines include: astrometry, celestial mechanics, and ( ).\nOptions:\nA. Astrochemistry\nB. Astrophysics\nC. Astrobiology\nD. Astrogeology\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: If it took the Earth only 9 months, instead of 12 months, to orbit the Sun, then, relative to a sidereal day, a solar day would become:\nOptions:\nA. longer;\nB. shorter;\nC. unchanged；\nD. None of above.\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The Hard X-ray Modulation Telescope of China (HXMT) recently confirmed the high-energy counterpart of FRB200428 for the first time, demonstrating that this fast radio burst originated from a...\nOptions:\nA. Extraterrestrial Civilizations\nB. Black hole accretion radiation\nC. Highly magnetized neutron star\nD. Cataclysmic Variable Star\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following Messier objects is the farthest from Earth?\nOptions:\nA. M22\nB. M31\nC. The Orion Nebula\nD. M45\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What forms of life could potentially exist on Venus?\nOptions:\nA. Photosynthetic organisms on the surface\nB. Complex life in underground caves\nC. Microbes in the Clouds\nD. Paramecium in underground caves\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The OSIRIS-REx asteroid probe successfully collected samples from asteroid Bennu and is scheduled to return to Earth in 2023. If all goes well, it will arrive in which month?\nOptions:\nA. June\nB. July\nC. September\nD. November\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The least accurate statement among the following is:\nOptions:\nA. Meteors are small solar system bodies.\nB. Virgo W-type variable stars can serve as standard candles.\nC. Quasars are a type of active galactic nuclei.\nD. M-type main sequence stars have a lifespan longer than the age of the universe.\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Two stars, A and B, have spectra that peak at wavelengths of 500nm and 250nm, respectively. If the ratio of their Schwarzschild radii when they form black holes is 8:1, what is their luminosity ratio? Assume that their densities are uniform before collapsing and that they do not lose any mass when forming black holes.\nOptions:\nA. 2:1\nB. 4:1\nC. 1:4\nD. 1:2\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following lists the components of the solar nebula in order of decreasing mass percentage?\nOptions:\nA. Hydrogen compounds (H2O, CH4, NH3), light gases (H, He), metals, rocks.\nB. Hydrogen compounds (H2O CH4 NH3), light gases (H He), rocks, metals\nC. Light gases (H He), hydrogen compounds (H2O CH4 NH3), metals, rocks\nD. Light gases (H He), hydrogen compounds (H2O CH4 NH3), rocks, metals\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: How many degrees has the lunar elongation changed from new moon to full moon?\nOptions:\nA. 90°\nB. 120 degrees\nC. 45 degrees\nD. 180°\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Proxima Centauri is 4.243 light years away from us and has an apparent magnitude of about 11.5. It is known to be approaching us at a speed of 21.7 kilometers per second. How many years will it take for it to become visible to the naked eye?\nOptions:\nA. 2 millennia\nB. 60,000 years\nC. 1.5 million years\nD. 9 million years\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the statement in the ancient Chinese records of the supernova explosion in 185 AD that might reflect changes in the chemical composition of stars?\nOptions:\nA. A guest star appears in the middle of the South Gate.\nB. Large as half a banquet\nC. Five-Colored Joy and Anger\nD. Until June of the following year, it will dissipate.\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is constant among the following parameters?\nOptions:\nA. Right Ascension of the Sun\nB. The Declination of the Sun\nC. The celestial longitude of the Sun\nD. The Yellow Latitude of the Sun\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the celestial phenomenon referred to as \"Tian Guan Ke Xing\" that was visible during the day in ancient China?\nOptions:\nA. White Dwarf Collapse\nB. Supernova Explosion\nC. Red Giants Shine\nD. Meteor streaks across the night sky\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The magnitude that corresponds to the \"true brightness\" of a star is called ( ).\nOptions:\nA. Apparent Magnitude\nB. Zero and Magnitude\nC. Absolute Magnitude\nD. Relative magnitude\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which constellation is the Vega star located in?\nOptions:\nA. Andromeda\nB. Virgo\nC. Lyra\nD. Perseus\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What information is engraved on the surface of the disc carried by the Pioneer spacecraft?\nOptions:\nA. Major Planets of the Solar System\nB. Human Body\nC. Size of the spacecraft\nD. All of the above\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the reason for \"retrograde motion\" of planets?\nOptions:\nA. Earth orbits faster than the inner planets.\nB. The Earth moves faster than the outer planets.\nC. Planets move in elliptical orbits, with varying speeds.\nD. Because of the Earth's rotation\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Compared to a star with many blue absorption lines, a star with many red and blue absorption lines must:\nOptions:\nA. be cooler\nB. have a different composition\nC. be moving away from the observer\nD. be moving towards another star.\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What does not distinguish a nebula from a cloud?\nOptions:\nA. Components\nB. Density\nC. Shape\nD. Morphological duration\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The earliest scientist to use a telescope for astronomical observation was ( ).\nOptions:\nA. Copernicus\nB. Newton\nC. Galileo\nD. Kepler\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following options is not a part of the mechanism for nova explosions?\nOptions:\nA. Kinetic energy is converted into heat energy.\nB. Accretion of helium\nC. Generating the H → He reaction\nD. Gas shell expansion\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What was the first plant to be grown in space on the Tiangong space station?\nOptions:\nA. Chili\nB. Corn\nC. Wheat\nD. Rice\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The elliptical galaxy M87 is located in the ( ) region of the sky.\nOptions:\nA. Coma Berenices\nB. Cancer\nC. Vulpecula\nD. Virgo\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following stars is not part of the \"Summer Triangle\"?\nOptions:\nA. Polaris\nB. Altair\nC. Vega\nD. Tianjin-4\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which type of supernova is referred to as a \"standard candle\"?\nOptions:\nA. Type Ia Supernova\nB. Ib Supernova\nC. Type Ic supernova\nD. Type II Supernova\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which space telescope was successfully launched on December 25, 2021, and is scheduled to be officially put into use in May or June of 2022?\nOptions:\nA. Arthur Eddington\nB. Questioning the Sky\nC. Eugene Parker\nD. James Webb\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The orbital period of Venus is approximately 225 days, and the synodic period between Venus and Earth is about ( ) days.\nOptions:\nA. 643\nB. 720\nC. 5\nD. 584\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: How many stars of the 2nd magnitude or brighter can be observed from Earth as being occulted by the Moon?\nOptions:\nA. 21\nB. 18\nC. 12\nD. 7\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Who was the first astronomer to propose the theory of \"black hole evaporation\"?\nOptions:\nA. Chandrasekhar\nB. Einstein\nC. Eddington\nD. Stephen Hawking\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which star is closest to our Sun?\nOptions:\nA. Betelgeuse\nB. Sirius\nC. Proxima Centauri\nD. Ceres\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the difference between comets and asteroids?\nOptions:\nA. Comets are mainly composed of rock, while asteroids are made up of ice.\nB. Comets are primarily composed of ice, while asteroids are made of rock.\nC. Asteroids are composed of gas and dust, while comets are made up of metals.\nD. Don't know\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: How does the greenhouse effect work?\nOptions:\nA. Ozone transmits visible light, heating its surfaceOzone transmits visible light, heating its surface most of the infrared but then absorbs most of the infrared heat, trapping the heat near the surface.\nB. Greenhouse gases transmit visible light, allowing itGreenhouse gases transmit visible light, allowing it the Earth, but then absorb but then absorb infrared radiation from the planet, trapping the heat near the surface.\nC. Greenhouse gases absorb infrared radiation from the sun, then heat the atmosphere and the surface.\nD. Greenhouse gases absorb x-rays and ultraviolet radiation from the sun, which then heats the atmosphere and the surface.\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the most powerful source of energy in the universe?\nOptions:\nA. Luminous Energy\nB. Magnetic Energy\nC. Nuclear Energy\nD. Internal Energy\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which bright star is closest in angular distance to Polaris?\nOptions:\nA. Deneb (Alpha Cygni)\nB. Procyon (Alpha Canis Minoris)\nC. Regulus (Alpha Leonis)\nD. Aldebaran (Alpha Tauri)\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The Mars exploration rover that NASA announced in 2019 to have completed its mission beyond its expected service life is named what?\nOptions:\nA. Opportunity\nB. Suzaku\nC. Spirit\nD. Mariner 1\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following constellations is located between the North Celestial Pole and the North Galactic Pole?\nOptions:\nA. Buck Deer Constellation\nB. Canis Major\nC. Canis Major\nD. Leo\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following Mars oppositions was closest to Earth?\nOptions:\nA. May 22, 2016\nB. February 19, 2027\nC. June 28, 2033\nD. August 14, 2050\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What are the main components of the Martian polar caps?\nOptions:\nA. Solid water, solid water\nB. Dry ice, solid water\nC. Solid water, dry ice\nD. Water ice, dry ice\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Overall, what is the average density of the Sun approximately the same as?\nOptions:\nA. Rain clouds\nB. Water\nC. Silicate rocks\nD. Iron-nickel meteorites\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the oldest astronomical observatory confirmed to be built by humans?\nOptions:\nA. The ancient observatory located in Beijing, China\nB. The Taosi Site located in Linfen, China\nC. The Yinxu site located in Anyang, China.\nD. Stonehenge in Wiltshire, England\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following groups of celestial bodies do not belong to the same type?\nOptions:\nA. Mercury, Earth, Mars\nB. Io, Charon, Titan\nC. Orion Nebula, Andromeda Galaxy, Rosette Nebula\nD. All three groups belong to the same category.\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which country has sent a lander to Venus?\nOptions:\nA. Union of Soviet Socialist Republics\nB. United States\nC. France\nD. Both A and B are correct.\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following statements is incorrect?\nOptions:\nA. The Dawn spacecraft arrived at Ceres this month, having previously explored Vesta.\nB. The MAVEN spacecraft from NASA is a specialized device for studying the Martian atmosphere.\nC. In September 2014, India's Mars Orbiter Mission (MOM) successfully reached Mars and entered orbit around the planet.\nD. The Very Large Telescope (VLT), Keck Telescope, LAMOST, and GAIA are all ground-based telescopes.\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the farthest distance that Halley's Comet can reach?\nOptions:\nA. Between the orbits of Saturn and Uranus\nB. Between the orbits of Uranus and Neptune\nC. Between the orbits of Jupiter and Saturn\nD. Beyond Neptune's orbit\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following options is the Beijing time when a total solar eclipse occurs?\nOptions:\nA. 2019-12-26 00:00:00\nB. 2000-06-21 00:00:00\nC. August 11th, 2018\nD. 2019/7/3\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: It is currently known that the Local Group contains more than 50 galaxies. Which of the following options does not belong to the Local Group?\nOptions:\nA. M110\nB. M87\nC. M33\nD. M32\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the Western name corresponding to the Chinese star name \"Nanhe San\"?\nOptions:\nA. Gemini Alpha\nB. Gemini β\nC. Alpha Canis Majoris\nD. Procyon\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Is Earth the only planet with solstices?\nOptions:\nA. We are still uncertain.\nB. No\nC. Yes\nD. Unknown\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The first asteroid discovered and named by the Chinese is ( ), with its discoverer being Zhang Yuzhe.\nOptions:\nA. Nine Flowers\nB. Shao\nC. Chinese\nD. Line\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Binary systems emit strong ( ), through which we can find some evidence of the existence of black holes.\nOptions:\nA. Alpha ray\nB. X-rays\nC. Gamma Rays\nD. Beta rays\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Nowadays, the distance to stars is measured by\nOptions:\nA. radar signal reflection\nB. laser reflection\nC. spacecraft flight time\nD. geometric method.\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Radio telescopes are crucial for astronomical observations. Which of these famous radio telescopes has the largest parabolic antenna?\nOptions:\nA. Green Bank Telescope\nB. Arecibo Telescope\nC. Yevpatoria RT-70 Telescope\nD. Effelsberg Telescope\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The family index of a meteor shower is r = 2.5, and a student is counting the meteors from this shower. Assuming there are sufficient good dark night conditions at the observing site, how many times should the number of fourth-magnitude meteors counted by the student be close to the number of third-magnitude meteors?\nOptions:\nA. 2.5 times\nB. 10 times\nC. 40 times\nD. 316 times\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Who was the first professional female astronomer? Hint: She was the sister of another famous astronomer.\nOptions:\nA. Jill Tarter\nB. Edmond Halley\nC. Vera Rubin\nD. Caroline Herschel\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: On January 12, 2019, the Chinese Astronomical Society and the Beijing Planetarium jointly announced in Beijing the launch of the \"Under the Same Sky\" global astronomical campaign (Mainland China region) initiated by the International Astronomical Union (IAU), to commemorate how many years since the establishment of the IAU?\nOptions:\nA. 60\nB. 200\nC. 80\nD. 100\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the most representative constellation in the winter night sky?\nOptions:\nA. Canis Major\nB. Orion\nC. Gemini\nD. Taurus\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the most popular definition of a blue moon?\nOptions:\nA. A calendar month's second full moon\nB. Full moon on Friday the 13th\nC. Full Moon on Friday the 13th\nD. I don't know.\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: If the Sun and its mass were to suddenly disappear, what would happen to the Earth:\nOptions:\nA. Remain in its current orbit\nB. Suddenly change its orbital velocity\nC. Fly off into space\nD. Stop rotating\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the approximate density of the Earth?\nOptions:\nA. 1.4\nB. 3.9\nC. 5.5\nD. 1.6\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the farthest known object in the Solar System from the Sun?\nOptions:\nA. Satellite\nB. Halo\nC. Atmosphere\nD. I'm not sure.\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The mass of the black hole at the center of the Milky Way is approximately 4 million times that of the sun, M⊙， and it is 26,000 light-years away from the solar system. Given G as the gravitational constant and c as the speed of light, what is the Schwarzschild radius of this black hole?\nOptions:\nA. 1.54×10^2~GM_\\odot/c\nB. 1.54×10^2~GM_odot/c^2\nC. 8×10^6~GM_⊙/c^2\nD. 4×10^6~GM_\\odot/c\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The laboratory rest wavelengths of several hydrogen absorption lines are 410nm, 434nm, 486nm, and 656nm respectively. Astronomers conducted spectral observations on a distant galaxy, and the results showed that the wavelengths of these same spectral lines were 492nm, 521nm, 583nm, and 787nm respectively. What is the recessional velocity of this galaxy in terms of the speed of light?\nOptions:\nA. 0.16\nB. 0.18\nC. 0.2\nD. 0.22\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The semi-major axis of the orbit of Comet C/2020 F3 (NEOWISE), a widely followed comet in 2020 with an orbital period of approximately 7,000 years, is closest to how many astronomical units (au)?\nOptions:\nA. 3.6\nB. 36\nC. 360\nD. 3600\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following facts about Venus is true?\nOptions:\nA. Its surface is primarily composed of water ice.\nB. It has acid rain.\nC. It has a magnetic field similar to that of the Earth.\nD. Do not know\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which constellation is not traversed by the celestial equator?\nOptions:\nA. Virgo\nB. Hercules\nC. Pisces\nD. Orion\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The coordinates of a certain star are α=0h10m, δ=+60°， with proper motions α=+0.07s/yr, δ=-0.200”/yr. What is the magnitude of the total proper motion?\nOptions:\nA. 0.83\"/yr\nB. 1.06\" per year\nC. 0.56\" per year\nD. 0.20\" per year\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: How many stars of magnitude 2 or brighter can be observed from Earth when occulted by the Moon?\nOptions:\nA. 7\nB. 12\nC. 18.\nD. 21\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Compared to ultraviolet radiation, infrared radiation has a greater:\nOptions:\nA. wavelength\nB. amplitude\nC. frequency\nD. energy\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The absolute magnitude of Sirius is 1.5, how many magnitudes does the sun's absolute magnitude differ from that of Sirius?\nOptions:\nA. 1.5\nB. 7.1\nC. -25.3\nD. 3.3\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The Herschel infrared telescope was honorably retired at the end of June 2013. Which of the following statements related to it is incorrect? ( )\nOptions:\nA. It fills the gap in space observations at infrared and submillimeter wavelengths.\nB. It operates at the first Lagrangian point.\nC. It was retired after the depletion of 2300 liters of liquid helium.\nD. It is named in honor of the British astronomer William Herschel.\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the absolute magnitude of the Sun?\nOptions:\nA. 8.6\nB. -26.8\nC. 0\nD. 4.8\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the most common element in Jupiter?\nOptions:\nA. Hydrogen\nB. Helium\nC. Carbon\nD. Oxygen\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The most direct reason for launching satellites to detect cosmic background radiation is ()。\nOptions:\nA. Displaying National Power\nB. Space Race\nC. Testing Rocket's Payload Capacity\nD. The Earth's atmosphere blocks out many electromagnetic wavelengths.\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following relates the intrinsic luminosity of a spiral galaxy to its asymptotic rotational speed?\nOptions:\nA. Fundamentals\nB. Tully-Fisher relation m/s\nC. Plessey-Shake formula\nD. Faber-Jackson relation\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: We have always been unable to see the far side of the Moon from Earth because (   ).\nOptions:\nA. The Moon does not rotate on its own axis.\nB. The lunar rotation period is the same as the Earth's rotation period.\nC. The lunar rotation period is the same as its orbital period around Earth.\nD. None of the above is correct.\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following factors would definitely end all life on Earth?\nOptions:\nA. Climate Change\nB. Asteroid Impact\nC. The Expansion of the Sun\nD. Desertification of Land\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Why do scientists think Mars was once warmer and wetter?\nOptions:\nA. Mars shows clear evidence of volcanic activity, which suggests that the climate was once warmer and thus wetter.\nB. Early observations showed that vegetation patterns and canals seemed to be changing, indicating the presence of water.\nC. Mars has many geological features that are difficult to explain unless liquid water once flowed steadily across its surface.\nD. All planets tend to start with warm, wet climates and gradually become cold and dry, with smaller planets cooling more quickly than larger ones.\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: 1st magnitude stars appear brighter than 6th magnitude stars.\nOptions:\nA. Same brightness\nB. Brighter\nC. much darker\nD. Much larger\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Why does the moon in the sky appear blue?\nOptions:\nA. Due to the moon passing through debris from a comet.\nB. Because moonlight reflects off the oceans of Earth\nC. Due to pollution in the Earth's atmosphere\nD. I don't know.\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What was the first spacecraft to enter interstellar space?\nOptions:\nA. Voyager 1\nB. Pioneer 10\nC. Juno\nD. Voyager 2\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: In the Solar System, with the Sun at the center, where does Earth rank from the inside out?\nOptions:\nA. 5\nB. 4\nC. 3\nD. 2\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Water exhibits \"thermal contraction and cold expansion\" between 0-4°C, which allows ice to float on water. From this, we can understand that unlike water, ordinary substances in their solid state generally () when placed in their liquid state.\nOptions:\nA. Floating\nB. Suspension\nC. Sinking\nD. Unclear\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The fossil record of early life forms on Earth indicates that life originated approximately:\nOptions:\nA. 6000 years ago\nB. 65 million years ago\nC. The fossil record of early life forms on Earth indicates that life originated approximately: (a) 6000 years ago\nD. 14 billion years ago\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: If it took the Earth only 9 months, instead of 12 months, to orbit the Sun, then, relative to a sidereal day, a solar day would become: A.longer; B.shorter; C. unchanged；D.None of above.\nOptions:\nA. Light atomic nuclei fusing into heavy atomic nuclei\nB. Heavy atomic nuclei splitting into light atomic nuclei\nC. The Sun's magnetic field\nD. The energy remaining from the Sun's formation being slowly released\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What was the first animal to conceive and successfully give birth to offspring in a weightless environment within a satellite?\nOptions:\nA. Cockroach\nB. Dog\nC. Pig\nD. Monkey\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What are the two moons of Mars called?\nOptions:\nA. Triton and Deimos\nB. Triton and Deimos II\nC. Phobos and Deimos\nD. Phobos and Deimos\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following astronomical phenomena occurs least frequently?\nOptions:\nA. Mercury transit on Venus\nB. Mercury Transit as Seen from Earth\nC. Transit of Venus on Earth\nD. Venus Transit on Mars\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Select the incorrect statement.\nOptions:\nA. A day on Jupiter lasts about 100 hours.\nB. Jupiter has rings.\nC. One of Jupiter's moons is larger than Mercury.\nD. A day on Jupiter lasts about 24 hours.\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the visual magnitude ranking of Polaris (Alpha Ursae Minoris) among all stars in the sky?\nOptions:\nA. Top 1\nB. Top 5\nC. About 20th\nD. About 50th\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What happens during a solar eclipse?\nOptions:\nA. The moon obscures the sun.\nB. The sun obscures the moon.\nC. The Earth blocks the Sun.\nD. The sun obscures the earth.\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following projects is not a part of China's Major Scientific and Technological Infrastructure Construction \"13th Five-Year\" Plan?\nOptions:\nA. High-precision ground-based timing system\nB. 12-meter class optical/infrared telescope\nC. 500-meter Aperture Spherical Radio Telescope\nD. Ground-based Monitoring Network for Space Environment\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: When did the new Beijing Planetarium open?\nOptions:\nA. May 2003\nB. October 2003\nC. 2004-12-01 00:00:00\nD. February 2005\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following constellations is farthest from the direction of the Milky Way?\nOptions:\nA. Cygnus\nB. Bootes\nC. \"Cassiopeia\"\nD. Perseus\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which is the only moon in the solar system that has an atmosphere?\nOptions:\nA. Phobos\nB. Enceladus\nC. Triton\nD. Ceres\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The diameter of the Sun is 109 times that of the Earth, therefore the volume of the Sun is approximately how many times that of the Earth?\nOptions:\nA. One Hundred Times\nB. Ten Thousand Times\nC. A million times\nD. A hundred million times\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The second cosmic velocity (or escape velocity) is the speed required for an object to escape the gravitational field of a celestial body with mass M and radius R. Which formula correctly calculates this velocity? (G: gravitational constant)\nOptions:\nA. v = sqrt(GM/R)\nB. v = 2sqrt(GM/R)\nC. v = sqrt(2GM/R)\nD. v = sqrt(GM/2R)\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following molecular lines is not commonly used in the study of molecular clouds?\nOptions:\nA. Hydrogen molecule\nB. Carbon monoxide\nC. Formaldehyde\nD. Water\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The primary reason for building professional observatories on high mountain peaks is:\nOptions:\nA. Away from city lights\nB. Above rain clouds\nC. Reduce atmospheric blurring\nD. Improve chromatic aberration\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Compared to Earth, Venus:\nOptions:\nA. is much smaller\nB. is much larger\nC. is about the same size.\nD. none of the above.\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What was the first asteroid to be deflected in its orbit by a spacecraft?\nOptions:\nA. Pallas\nB. Psyche\nC. Double Guard One\nD. Io\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: An astronomy enthusiast in Beijing (116°20'E, 39°56'N) observes southward. In which constellation range will they be able to see a geosynchronous orbit satellite?\nOptions:\nA. Scutum\nB. Dolphin constellation\nC. Lyra\nD. Piscis Austrinus\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The world is divided into 24 time zones, and Beijing Time in China uses the time of the Eastern Eighth Zone. When it is 6 a.m. in Beijing, what is the time in Moscow, which is located in the Eastern Third Zone?\nOptions:\nA. 3:00 a.m.\nB. 3 p.m.\nC. 1:00 a.m.\nD. 1:00 PM\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the reason for Haumea's elongated shape?\nOptions:\nA. It has been deformed by the solar wind.\nB. It rotates very fast.\nC. It rotates very slowly.\nD. I don't know.\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Peggy Pig loves playing in the mud, and her highest record on Earth was making the mud fly 1 meter high. One day, she traveled to a strange planet similar in material to Earth and played in the mud again. With a hard stomp, the mud shot straight into the sky, just leaving the planet without returning. So, what is the approximate mass of this planet?\nOptions:\nA. 8.5×10^24 kg\nB. 3.6×10^{18} kg\nC. 3.7×10^14 kg\nD. 22×10^19 kg\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What are the large dark spots on the Moon?\nOptions:\nA. Mountainous area\nB. Solidified lava field\nC. Frozen Water Bodies\nD. Seawater\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is not directly included in the famous Hertzsprung-Russell diagram in astronomy?\nOptions:\nA. The relationship between the luminosity of stars and their temperature.\nB. The Relationship between Stellar Temperature and Volume\nC. Stellar Distance and Volume Relationship\nD. The relationship between a star's luminosity and its volume.\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which Chinese-American scientist has made the greatest contribution to the exploration of dark matter?\nOptions:\nA. Yang Zhenning\nB. Tsung-Dao Lee\nC. Ding Zhaozhong\nD. Chu Tien-Wen\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: In the Michelson interferometer experiment, which of the following statements does not align with historical facts?\nOptions:\nA. The purpose of the Michelson experiment was to verify the motion of the Earth relative to \"absolute space\".\nB. Throughout his life, Michelson did not detect \"motion relative to 'absolute space'\".\nC. Einstein's theory suggests that \"absolute space\" does not exist.\nD. Michelson accepted Einstein's theoretical explanation.\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following statements is incorrect?\nOptions:\nA. The manufacturing and installation of the cable network for China's 500-meter Aperture Spherical Radio Telescope has been successfully completed.\nB. A telescope developed independently by China for astronomical observation in the Antarctic was installed at Kunlun Station in February 2015. This marks the fourth such telescope deployed by China in the Dome A region of Antarctica.\nC. The latest data show that the lunar mare is not formed by an asteroid impact, but an ancient rift related to plate movement.\nD. Observational data confirms that the Great Red Spot on Jupiter is continuously shrinking.\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Low-temperature stars can also be very bright if they are very:\nOptions:\nA. small\nB. hot\nC. large\nD. close to the solar system\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following correctly describes the path taken by Voyager 2?\nOptions:\nA. Jupiter-Neptune-Uranus\nB. Jupiter-Saturn-Neptune-Uranus\nC. Jupiter-Saturn-Uranus-Neptune\nD. Earth-Uranus-Neptune\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Imagine our universe filled with basketballs, each having a mass of m_b = 0.62 kg. What number density n_b of basketballs would be required to make the mass density equal to the current critical density of the universe?\nOptions:\nA. 1.5\\times10^{-26}m^{-3}\nB. 1.7 x 10^26 m^-3\nC. 1.5\\times10^{-27}m^{-3}\nD. 1.7 x 10^27 m^-3\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following correctly gives the location of Population I and Population II stars in the Milky Way?\nOptions:\nA. Star Population I - Thin Disk, Spiral Arms; Star Population II - Halo, Bulge.\nB. Star Population I - Thin Disk, Bulge; Star Population II - Spiral Arms, Halo\nC. Population I - Halo, Bulge; Population II - Thin Disk, Spiral Arms\nD. Star Population I - Halo, Thin Disk; Star Population II - Bulge, Spiral Arms\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the size of the asteroid that has a 1/600 chance of hitting Earth in February 2040?\nOptions:\nA. 3-5 meters\nB. 20-30 meters\nC. About 150 meters\nD. About 1200 meters\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Based on the characteristics of Type Ia supernovae, scientists have learned through observation that the farther away these supernovae are, the older their explosions appear to be, and the faster they were receding at the time of their explosion.\nOptions:\nA. Fast\nB. Invariable\nC. Slow\nD. Uncertain\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which zodiacal constellation (associated with fearlessness in astrology) can the bright star Antares be found in?\nOptions:\nA. Scorpio\nB. Gemini\nC. Virgo\nD. Leo\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What type of planet is Jupiter?\nOptions:\nA. Terrestrial Planet\nB. Gas Giant\nC. Ice Giant\nD. Yellow dwarf\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The countdown short film of the 24 solar terms shown at the opening ceremony of the Beijing Winter Olympics amazed the world. The 24 solar terms reflect the ( ) part of traditional Chinese astronomy.\nOptions:\nA. Gregorian calendar\nB. Lunar Calendar\nC. Solar Calendar\nD. Lunar-Solar Calendar\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Compared to the diameter of the Moon, the diameter of Mercury is:\nOptions:\nA. Larger\nB. Smaller\nC. Basically the same.\nD. None of the above.\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Earth's rocks formed () billion years ago.\nOptions:\nA. 46\nB. 38\nC. 35\nD. 65\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which phase of the moon is depicted in the line \"The moon rises above the willow branches, and people make appointments after dusk\" from Ouyang Xiu's poem?\nOptions:\nA. New Moon\nB. Waning Crescent\nC. Full moon\nD. New Moon\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The correct classification for Jupiter is ( ) ① terrestrial planet ② giant planet ③ outer planet ④ solid planet ⑤ fluid planet ⑥ regular planet ⑦ irregular planet ⑧ inner planet ⑨ outer planet\nOptions:\nA. 2. 5. 6. 8.\nB. 3. The study of celestial objects and phenomena\n5. Astronomy is the scientific study of the universe beyond Earth.\n6. Astronomers use telescopes to observe distant stars and galaxies.\n9. The field of astronomy encompasses a wide range of topics, including cosmology, astrophysics, and planetary science.\nC. ② The study of celestial objects and phenomena beyond the Earth's atmosphere.\n④ The science that deals with the origin, evolution, and eventual fate of the universe.\n⑥ The motion of stars and other celestial bodies as seen from Earth.\n⑨ The apparent change in position of a celestial body relative to the background of distant stars caused by the combined motions of the observer's and the object's locations.\nD. 2. The study of celestial bodies and phenomena in the universe\n5. Astronomy is the science that explores the mysteries of the universe\n6. Astronomers use telescopes to observe distant stars and galaxies\n9. The field of astronomy includes the study of planets, stars, galaxies, and the universe as a whole\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following solar flare X-ray classifications does not exist?\nOptions:\nA. B\nB. X\nC. D\nD. M\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the first discovered dwarf planet?\nOptions:\nA. Ceres\nB. Pluto\nC. Haumea\nD. Uranus\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: According to the standard model of the Sun, as the distance from the center increases, the density decreases:\nOptions:\nA. approximately at the same rate as the temperature decreases\nB. faster than the rate at which the temperature decreases\nC. slower than the rate at which the temperature decreases\nD. only if the temperature is increasing.\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following celestial bodies has the smallest angular distance from the Sun today?\nOptions:\nA. North Star\nB. Dǒu Sù Sì\nC. Triangulum\nD. Antares\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What mechanism do stars and emission nebulae interact through:\nOptions:\nA. Exciting their atoms to make them glow\nB. Illuminating them like billboards\nC. What mechanism do stars and emission nebulae interact through: (a) Exciting their atoms to make them glow\nD. Heating them to cause an explosion\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which two constellations are not adjacent?\nOptions:\nA. Leo and Leo Minor\nB. Canis Major and Canis Minor\nC. Pisces and Cetus\nD. Pegasus and Equuleus\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The Yangshao culture is a Neolithic culture in the middle reaches of the Yellow River, lasting from about 5000 BC to 3000 BC, first discovered in Mianchi County (latitude 34.76 degrees). In the early phase of this culture, around 4500 BC, the maximum altitude of Antares observed in Mianchi was at ( ) degrees.\nOptions:\nA. 66 to 85\nB. 5 to 25\nC. 26-45\nD. 46 to 65\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: When was the first time a human astronaut conducted a spacewalk?\nOptions:\nA. 1965\nB. 1978\nC. 1992\nD. 2003\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following statements about globular clusters is incorrect?\nOptions:\nA. The overall shape is a regular sphere.\nB. Consists of tens of thousands to millions of stars.\nC. Consists of stars that have evolved to a late stage.\nD. The scale is 200—300 Ly\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which planet is famous for its Great Red Spot?\nOptions:\nA. Saturn\nB. Uranus\nC. Jupiter\nD. Mars\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: In May 2019, SpaceX launched its first batch of satellites into space using a single rocket to carry 60 satellites, which the IAU has stated could have severe impacts on astronomical observations.\nOptions:\nA. Starlink\nB. Telesat\nC. CubeSat\nD. OneWeb\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the best approximation of the surface temperature of the Sun?\nOptions:\nA. 6000K\nB. 7000K\nC. 9000K\nD. 13000K\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The discovered globular clusters are mainly located in:\nOptions:\nA. Galactic Center\nB. Galactic Disk\nC. Spiral Arms\nD. Galactic Halo\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: How many partial solar eclipses were visible worldwide in 2018, and how many of those could be observed in China?\nOptions:\nA. 3.1\nB. 2,0\nC. 4,2\nD. 2.1\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the closest number to the magnitude of 1000 8th magnitude stars gathered together?\nOptions:\nA. -1.5\nB. 0.5\nC. 2.5\nD. 8000\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following is not a constellation name in astronomy?\nOptions:\nA. Libra\nB. Hydra\nC. Tucana\nD. Fornax\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the most advanced stellar photometry technology since the 1980s?\nOptions:\nA. Photoelectric method\nB. CCD Technology\nC. Film Method\nD. Photomultiplier tube\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the second most common element in the Solar System?\nOptions:\nA. Iron\nB. Hydrogen\nC. Methane\nD. Helium\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The reason why there are no strong hydrogen lines in the spectra of stars with spectral type M is:\nOptions:\nA. They contain very little hydrogen\nB. Their surface temperature is too low, and most hydrogen is in the ground state\nC. Their surface temperature is too high, and most hydrogen is ionized\nD. The hydrogen lines are overwhelmed by stronger lines of other elements\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the maximum distance at which a telescope with a limiting magnitude of 20 can detect a sun-like star?\nOptions:\nA. 520 light years\nB. 8400 light years\nC. 450,000 light-years\nD. 36000 Light-years\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What cannot be observed at the South Pole?\nOptions:\nA. Solar Eclipse\nB. Jupiter Conjunction with the Moon\nC. Canopus\nD. Geminid Meteor Shower\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Why do gas giants bulge around the equator and have a \"squashed\" appearance?\nOptions:\nA. Their satellites and rings form a large system that gravitationally attracts more mass around the equator.\nB. They are much more massive than terrestrial planets.\nC. Their rapid rotation flings mass outwards from the equator.\nD. Their internal heat sources exert pressure on the planet's sides.\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which dark matter particle detector, based on 530 days of orbital operation and collecting approximately 2.8 billion high-energy cosmic rays, successfully obtained the highest precision TeV electron cosmic ray detection results currently available internationally?\nOptions:\nA. ALMA\nB. South Pole AST-3\nC. Wukong\nD. Gaia\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the name of the first satellite launched by the United States?\nOptions:\nA. Explorer 1\nB. Sputnik 1\nC. Viking 1\nD. Voyager 1\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following artificial celestial bodies has the highest orbital altitude?\nOptions:\nA. Geosynchronous Orbit Satellite\nB. Sun-synchronous orbit satellite\nC. International Space Station\nD. Hubble Space Telescope\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Galactic black holes have millions to tens of billions of solar masses and are located in the ( ).\nOptions:\nA. Edge\nB. Core\nC. Anywhere\nD. Halfway point of the radius\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which constellation is the red giant star that appears reddish in winter nights, Betelgeuse?\nOptions:\nA. Canis Major\nB. Orion\nC. Taurus\nD. Scorpio\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which planet in the solar system has the most violent and frequent volcanic activity?\nOptions:\nA. Jupiter\nB. Jupiter's Moon\nC. Venus\nD. Mars\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: If the initial spins of the proton and electron in a hydrogen atom are parallel, and then they change to opposite spin directions, what will happen to the atom:\nOptions:\nA. Absorb energy\nB. Release energy\nC. Become hotter,\nD. Become larger.\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which description is suitable for the environment of Venus?\nOptions:\nA. Cold, desert and dust storm planet\nB. Habitable Zone\nC. Gas Giants with No Solid Surface\nD. Hot planet with many volcanoes\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: When was the first solar flare discovered?\nOptions:\nA. 1958\nB. 1959\nC. In 1960\nD. 1961\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Among the following meteor showers, which has a moon phase favorable for observation during its peak period this year (2016)?\nOptions:\nA. Lyrid Meteor Shower\nB. Eta Aquarids\nC. Leonids Meteor Shower\nD. Geminid Meteor Shower\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following telescopes has not been used for projects related to the search for extraterrestrial civilizations?\nOptions:\nA. Green Bank Telescope\nB. Arecibo Telescope\nC. FAST Telescope\nD. SOHO Telescope\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: In addition to a total lunar eclipse, the opposition of Ceres also occurred on January 31, 2018. When will the next opposition of Ceres take place?\nOptions:\nA. 2018-12-10 00:00:00\nB. 31/05/2019\nC. 09/09/2020\nD. 25/03/2020\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: In 1678, Huygens used physical methods to measure the speed of light particles as ( ) km/s.\nOptions:\nA. 100,000\nB. 170,000\nC. 300,000\nD. 240,000\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Planck scale is ( ).\nOptions:\nA. 5.39×10^-46 meters\nB. 1.26×10^-46 meters\nC. 1.62×10^-35 meters\nD. 5.39×10^-35 meters\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: How many Lagrange points are there in the Earth-Sun system?\nOptions:\nA. 6\nB. 5\nC. 4\nD. 3\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Regarding black holes, which of the following statements is incorrect?\nOptions:\nA. The volume at the central singularity is 0, and the density is infinitely large.\nB. All black hole matter is trapped in the central singularity.\nC. Anything within the horizon, including matter, energy, and information, cannot escape.\nD. Black holes are a standard sphere.\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: When does the peak of the famous Perseid meteor shower occur each year?\nOptions:\nA. 4\nB. 8\nC. 11\nD. 12\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: If the mirror of a telescope can be of any shape, which one would have the strongest light-gathering capability:\nOptions:\nA. A triangular mirror with a side length of 1m\nB. A square mirror with a side length of 1m\nC. A circular mirror with a diameter of 1m\nD. A rectangular mirror with a width of 1m and side lengths of 2m?\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: An ionized atom:\nOptions:\nA. has the same number of protons and electrons\nB. has more protons than electrons\nC. is radioactive\nD. is electrically neutral\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the oldest astronomical observatory that has been confirmed to be built by humans?\nOptions:\nA. The Taosi Site, located in Linfen, China\nB. The Yinxu site located in Anyang, China\nC. Stonehenge, located in Wiltshire, UK\nD. The Ancient Observatory located in Beijing, China\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The solar neutrino problem is:\nOptions:\nA. We detected more solar neutrinos than expected\nB. We detected fewer solar neutrinos than expected\nC. We detected the wrong type of neutrinos\nD. We cannot detect solar neutrinos.\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which eyepiece, when used with a refracting telescope that has a 90mm aperture and a focal length of 900mm, will allow the entire Moon to fill the field of view?\nOptions:\nA. A 25mm eyepiece with a field of view of 40°\nB. 10mm eyepiece with a 40° field of view\nC. Eyepiece with a 40° field of view and a focal length of 6.5mm\nD. A 25mm eyepiece with a 60° field of view.\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What conditions must be met in addition to those required for a solar eclipse to observe a total solar eclipse?\nOptions:\nA. The Earth must be completely within the penumbra of the Moon.\nB. The penumbra of the Moon must touch your area.\nC. The Earth must be near aphelion in its solar orbit.\nD. The umbra of the Moon must touch your area.\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The gravitational force between two celestial bodies is proportional to what power of their masses?\nOptions:\nA. Inverse square law\nB. Directly proportional\nC. Directly proportional to the square\nD. Inversely proportional\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which two constellations appear to be the farthest apart in the sky?\nOptions:\nA. Orion and Taurus\nB. Orion and Leo\nC. Orion and Gemini\nD. Lyra and Aquila\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following descriptions about geosynchronous orbit satellites is incorrect?\nOptions:\nA. Orbit inclination is 0.\nB. Orbital eccentricity is 0.\nC. The orbital period is 24 hours.\nD. The orbital altitude is about 35,000 kilometers.\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which constellation is \"Megrez\" located in, one of the \"Navigation Stars\"?\nOptions:\nA. Pegasus\nB. Aries\nC. Cassiopeia\nD. Capricornus\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The result of the accumulation of matter and energy in the early universe is:\nOptions:\nA. Formation of atoms\nB. Rapid inflation\nC. Small but observable redshift\nD. Lower temperature\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: When the temperature drops below 900 million Kelvin, neutrons combine with protons to form ( ) nuclei, thereby achieving long-term preservation.\nOptions:\nA. Hydrogen\nB. Helium\nC. Lithium\nD. Beryllium\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The distance between the Earth and Altair is a million times greater than the distance between the Earth and the Sun. How far is Altair from the Earth?\nOptions:\nA. 9.3 x 10^13 meters\nB. 9.3 x 10^10 meters\nC. 1.5 x 10^14 meters\nD. 1.5 x 10^17 meters\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Who discovered Pluto in 1930?\nOptions:\nA. Clyde Tombaugh\nB. Galileo Galilei\nC. Edmond Halley\nD. Thomson\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The Cassini spacecraft is expected to end its mission in the Saturnian system later this year (2017). How is it planned to conclude its exploration?\nOptions:\nA. \"Falling into Saturn\"\nB. \"Falling into Titan\"\nC. Flying past Uranus, and then flying out of the solar system.\nD. Directly leaving the solar system\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which particle (whether static or dynamic) has the shortest lifespan when existing alone?\nOptions:\nA. Photon\nB. Electron\nC. Proton\nD. Neutron\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: In August 2018, the Transiting Exoplanet Survey Satellite (TESS) observed a change in brightness of a galaxy, with its apparent magnitude increasing from 19th to 16th over several days. This change was caused by the explosion of a Type Ia supernova, namely ASASSN-18tb. Assuming that the progenitor star of this supernova and Betelgeuse (with an absolute magnitude of -5) are very similar, and that this galaxy is very much like the Milky Way (which contains about 200 billion stars similar to the Sun), then the brightness of this supernova increased by approximately ( ) times after the explosion.\nOptions:\nA. 10^3\nB. 10^6\nC. 10^8\nD. 10^11\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What was the first asteroid to be landed on by a space probe?\nOptions:\nA. Apophis\nB. Eros\nC. Vesta\nD. Ceres\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which constellation does the North Star belong to?\nOptions:\nA. Canis Minor\nB. Canis Major\nC. Ursa Minor\nD. Ursa Major\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: When observing the transit of Tiangong-1 with the naked eye, under relatively ideal conditions, its brightness can reach up to ( ) at its brightest.\nOptions:\nA. Brighter than magnitude -3\nB. About 0th magnitude\nC. About +3 magnitude\nD. Fainter than magnitude +5\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following two constellations are not adjacent?\nOptions:\nA. Bootes and Canes Venatici\nB. Orion and Eridanus\nC. Lyra and Aquila\nD. Piscis Austrinus and Aquarius\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Compared to the diameter of Earth, the diameter of Mars is:\nOptions:\nA. significantly larger\nB. significantly smaller\nC. almost the same size\nD. unclear\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following is most likely to explain why Venus does not have a strong magnetic field?\nOptions:\nA. It's rotating too slowly.\nB. The atmosphere here is too heavy.\nC. It's too big.\nD. It has no metallic core.\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: If the history of Earth's development up to the present were condensed into a 100-year timescale, in which year would life appear?\nOptions:\nA. 10\nB. 22\nC. 36\nD. 78\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Eddington's witty remark, \"I know you won't mind one or two zeros more or less, but nature does,\" is in reference to which of the following parameters?\nOptions:\nA. Mass of the Earth\nB. Mass of the Sun\nC. Distance from Earth to Sun\nD. Distance from the Milky Way to the Andromeda Galaxy\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: A star that has ceased nuclear fusion, if its mass exceeds 3 times that of the Sun, will eventually evolve into what?\nOptions:\nA. White Dwarf\nB. Neutron Star\nC. Black Holes\nD. Supernova\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What property of time makes the time machine virtually impossible in conventional thinking?\nOptions:\nA. The scenarios of \"only being able to move forward, not backward, and going back in time to kill one's own grandparents\" seem too absurd.\nB. Cannot go backwards but can only go forward, and is one of the seven fundamental physical quantities.\nC. The division of degrees is very precise and the scenario of \"going back in time to kill your own grandparents\" seems too absurd.\nD. Precise division of scales and is one of the seven fundamental physical quantities.\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Among the following objects, the one whose luminescence mechanism is most similar to that of an emission nebula is:\nOptions:\nA. The filament of an ordinary incandescent bulb\nB. Hot embers of a bonfire\nC. A glowing fluorescent tube\nD. A star like the Sun\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: How many Earth years is a Martian year approximately?\nOptions:\nA. 0.5\nB. 1\nC. 2\nD. 4\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: On February 28, 2022, the High-Tech Research and Development Center of the Ministry of Science and Technology released the \"Top Ten Scientific Advances in China for 2021\", among which there were four projects related to astronomy and aerospace that made the list. This does not include...\nOptions:\nA. The High Altitude Cosmic Ray Observatory (LHAASO) has made the first observation of high-energy photons exceeding ten trillion electron volts.\nB. The Mars exploration mission Tianwen-1 probe successfully landed on Mars.\nC. Chang'e-5 lunar samples reveal mysteries of the Moon's evolution.\nD. FAST Captures the World's Largest Sample of Fast Radio Bursts\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Who is the founder of Stellar Astronomy and is known as the father of Stellar Astronomy?\nOptions:\nA. Galileo\nB. William Herschel\nC. Newton\nD. None of the above\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: To study the warm (1000 K) young stars formed behind interstellar dust clouds, the best method is:\nOptions:\nA. X-rays\nB. Infrared\nC. Ultraviolet\nD. Blue light\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following is not caused by orbital resonance?\nOptions:\nA. Neptune: The period ratio of Pluto is 2:3.\nB. Kirkwood Gap.\nC. Gaps in Saturn's rings.\nD. The fragmentation of small Jovian moons forms ring materials.\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The comet that hit Jupiter in 1994 was named\nOptions:\nA. Comet Hyakutake\nB. Halley's Comet\nC. Hale-Bopp Comet\nD. Comet Shoemaker-Levy 9\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which planet is the largest in volume in the solar system?\nOptions:\nA. Venus\nB. Mars\nC. Earth\nD. Jupiter\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What type of telescope is the Hubble Telescope?\nOptions:\nA. Space Telescope\nB. Radio telescope\nC. Optical telescope\nD. None of the above\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What does the annular solar eclipse look like when observed from Earth?\nOptions:\nA. 1\nB. 0\nC. 8\nD. S\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Formation of inner planets:\nOptions:\nA. When the Sun's heat destroyed all smaller bodies in the inner solar system\nB. All light elements in the inner solar system became part of the Sun\nC. All light elements in the inner solar system were carried away in the form of comets\nD. Only rock and metal particles could form near the Sun\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the officially published astronomy popularization publication in the country?\nOptions:\nA. Sky & Telescope\nB. Starlight News\nC. Amateur Astronomer\nD. Planetarium Research\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the approximate angular distance between Polaris and Beidou Yi (Tianzhu)?\nOptions:\nA. 70°\nB. 30 degrees\nC. 50 degrees\nD. 10 degrees\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the smallest planet in the solar system?\nOptions:\nA. Earth\nB. Mars\nC. Mercury\nD. Neptune\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following is closest to the density of atoms in the interstellar medium:\nOptions:\nA. Smoke from a wildfire\nB. Dark clouds\nC. (a) Smoke from a wildfire\nD. Inside a television picture tube\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following occurred in April 2023?\nOptions:\nA. Mercury's Greatest Western Elongation\nB. Greatest Eastern Elongation of Mercury\nC. Greatest Elongation West of Venus\nD. Greatest Eastern Elongation of Venus\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Who was the first astronomer to propose the heliocentric model of the universe?\nOptions:\nA. Aristarchus of Samos\nB. Nicolaus Copernicus\nC. Ptolemy\nD. Tycho Brahe\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The range of declination for celestial bodies observable in the Arctic throughout the year is. ( )\nOptions:\nA. 0° to +90°\nB. -50° to +50°\nC. -50° to +90°\nD. -90° to +90°\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Carbon dioxide on Venus:\nOptions:\nA. All in the atmosphere\nB. Absorbed by water on the surface and evaporated into space\nC. Dissolved in the acidic liquids of the atmosphere\nD. Integrated into the surface rocks\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: When observing the night sky during summer in the Northern Hemisphere, you notice three stars forming a large triangle. What constellation do these stars belong to?\nOptions:\nA. Orion, Gemini, Taurus\nB. Great Bear, Lesser Bear, Dragon\nC. Lyra, Cygnus, Aquila\nD. Leo, Aquarius, Water-bearer\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: If the moon were compressed into a black hole, its Schwarzschild radius would be approximately\nOptions:\nA. 0.1 millimeter\nB. 1 millimeter\nC. 1 centimeter\nD. 1 centimeter\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What celestial object's spectrum is most similar to M42?\nOptions:\nA. M57\nB. M31\nC. Sun\nD. Geminids meteor shower group meteor\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which of the following terms or figures is not related to \"symmetry and its breaking\"?\nOptions:\nA. Group Theory\nB. Parity Explosion\nC. Wu Jianxiong\nD. Southern Yang Yilang\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Due to the Moon's eastward motion, lunar eclipses always begin from the ( ) of the lunar disk.\nOptions:\nA. Eastern Edge\nB. Western Limb\nC. Northern rim\nD. Southern Edge\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The angle between the orbital plane of the Moon around Earth and the lunar equator is ( ), which allows us to see some of the far side of the Moon.\nOptions:\nA. 6 degrees 41 minutes\nB. 23 degrees 26 minutes\nC. 15 degrees 16 minutes\nD. None of the above\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: Which planet in the solar system has the most violent atmospheric activity and the fastest surface wind speeds?\nOptions:\nA. Uranus\nB. Neptune\nC. Pluto\nD. Mercury\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The average density of the Earth is roughly the same as which of the following?\nOptions:\nA. A glass of water\nB. A heavy iron meteorite\nC. A block of ice\nD. A piece of black volcanic rock\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The story of the discovery of the 3K Cosmic Microwave Background Radiation coincides most with which ancient Chinese poem?\nOptions:\nA. You can't see the true face of Mount Lu because you are in the mountain itself.\nB. Spring's beauty cannot be confined; a red apricot branch extends beyond the wall.\nC. Plant a flower and it won't bloom, plant a willow and it thrives\nD. After endless mountains and rivers, one doubts if there is a way out, but beyond the dark willows and bright flowers, there lies another village.\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is the name of the first known meteorite from Mars?\nOptions:\nA. Chelyabinsk meteorite\nB. Nakhla meteorite\nC. Hoba meteorite\nD. I'm sorry, I don't know.\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The most recent observation of a supernova explosion within the Milky Way by humans was in the year ( ).\nOptions:\nA. 1054\nB. 1604\nC. 1987\nD. 2018\n",
+    "input": "",
+    "output": "B"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The difference in local sidereal time between two locations is 4h15m, so the difference in geographic longitude is ( ).\nOptions:\nA. 60 degrees 15 minutes\nB. 4 degrees 15 minutes\nC. 63 degrees 45 minutes\nD. 127 degrees 30 minutes\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: To date, within a distance of 10 parsecs from our solar system, astronomical observations have confirmed the existence of the highest number of which type of stars?\nOptions:\nA. O-type\nB. G-type\nC. M-type\nD. Brown dwarfs\n",
+    "input": "",
+    "output": "C"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What was the phase of the moon on May 1, 2018, which was the sixteenth day of the third lunar month?\nOptions:\nA. First Quarter Moon\nB. Waxing Crescent Moon\nC. Waning moon\nD. Full Moon\n",
+    "input": "",
+    "output": "D"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: The neutrinos recorded in 2017 came from a galaxy named TXS0506+056. One of the two jets produced by the supermassive black hole at the center of the galaxy was precisely aligned with Earth, generating radiation and high-energy particles, including the neutrinos and charged cosmic rays detected this time. The data was recorded by\nOptions:\nA. South Pole IceCube Neutrino Observatory\nB. Mediterranean Neutrino Observatory\nC. Chandra X-ray Observatory\nD. Compton Gamma Ray Observatory\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: What is a planetary conjunction with the Moon?\nOptions:\nA. The projections of planets and the moon on the ecliptic coincide.\nB. The planets and the moon are closest in angular distance on the celestial sphere.\nC. The actual distance between planets and the moon is closest.\nD. The right ascensions of the planet and the moon are equal.\n",
+    "input": "",
+    "output": "A"
+  },
+  {
+    "instruction": "Please select the correct answer from options A, B, C, and D.\nQuestion: An observer stands on the top of the world's tallest building, the Burj Khalifa (height = 830m, latitude = 25.2N, longitude = 55.3E). Which option is closest to the shortest and longest shadow lengths at local noon for the building over a year?\nOptions:\nA. 10m, 1050m\nB. 25m, 950m\nC. 35m, 850m\nD. 45m, 750m\n",
+    "input": "",
+    "output": "B"
+  }
+]
