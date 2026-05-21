@@ -1,8 +1,8 @@
-# KGAFT
+# AFTKG
 
-**Knowledge Graph-Driven Adaptive Multi-Agent Fine-Tuning Service for Domain-Specific LLM**
+**An Adaptive Fine-Tuning Multi-Agent System for Domain-Specific LLM Based on Knowledge Graph**
 
-KGAFT is an automated domain-specific large language model fine-tuning framework driven by a knowledge graph and multi-agent collaboration. It aims to provide a low-barrier, high-reliability fine-tuning service for non-expert users by integrating dataset selection, requirement analysis, hyperparameter customization, iterative evaluation, and closed-loop optimization.
+AFTKG is an automated domain-specific large language model fine-tuning framework driven by a knowledge graph and multi-agent collaboration. It aims to provide a low-barrier, high-reliability fine-tuning service for non-expert users by integrating dataset selection, requirement analysis, hyperparameter customization, iterative evaluation, and closed-loop optimization.
 
 ---
 
@@ -14,7 +14,7 @@ Domain-specific fine-tuning of large language models often faces three major cha
 - Experience-dependent hyperparameter configuration
 - Lack of automated quality assurance during model delivery
 
-To address these issues, KGAFT proposes a knowledge graph-driven adaptive multi-agent system that supports:
+To address these issues, AFTKG proposes a knowledge graph-driven adaptive multi-agent system that supports:
 
 - intelligent dataset filtering,
 - automatic user requirement understanding,
@@ -28,7 +28,7 @@ The system can dynamically adjust training strategies according to user expectat
 
 ## Framework
 
-The KGAFT workflow consists of three core agents:
+The AFTKG workflow consists of three core agents:
 
 ### 1. Data Selection Agent (`S2l/`)
 Selects high-value training samples from large-scale domain datasets using small-model learning trajectory summarization.
@@ -44,7 +44,7 @@ Evaluates intermediate fine-tuned models and determines whether iterative tuning
 ## Repository Structure
 
 ```text
-KGAFT/
+AFTKG/
 ├── Dataset/                        # Experimental datasets
 ├── Evaluation/                     # Model evaluation agent
 ├── Requirement_analysis_agent/     # Fine-tuning customization agent
